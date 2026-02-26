@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Manaal Malik`
+- **CCID:** `27100050`
 
 ## References and Resources
 
