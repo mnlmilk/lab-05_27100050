@@ -39,9 +39,12 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:34.9.0"))
 
 
+
     // TODO: Add the dependencies for Firebase products you want to use
     // When using the BoM, don't specify versions in Firebase dependencies
     implementation("com.google.firebase:firebase-analytics")
+    // Add the dependency for the Cloud Firestore library
+    implementation("com.google.firebase:firebase-firestore")
 
     implementation(libs.appcompat)
     implementation(libs.material)
